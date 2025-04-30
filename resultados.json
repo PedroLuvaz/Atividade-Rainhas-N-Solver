@@ -1,0 +1,38 @@
+[
+    {
+        "tamanho_tabuleiro": 8,
+        "seed": 42,
+        "percentual_bloqueios": 0.10836560790747303,
+        "num_bloqueios": 6,
+        "solucao_encontrada": true,
+        "tempo_processamento": 0.0,
+        "nos_visitados": 278
+    },
+    {
+        "tamanho_tabuleiro": 16,
+        "seed": 123,
+        "percentual_bloqueios": 0.07314181593105666,
+        "num_bloqueios": 18,
+        "solucao_encontrada": true,
+        "tempo_processamento": 0.0011284351348876953,
+        "nos_visitados": 804
+    },
+    {
+        "tamanho_tabuleiro": 32,
+        "seed": 999,
+        "percentual_bloqueios": 0.11688081309742179,
+        "num_bloqueios": 119,
+        "solucao_encontrada": true,
+        "tempo_processamento": 0.04841184616088867,
+        "nos_visitados": 25595
+    },
+    {
+        "tamanho_tabuleiro": 128,
+        "seed": 2025,
+        "percentual_bloqueios": 0.10346513021709124,
+        "num_bloqueios": 1695,
+        "solucao_encontrada": true,
+        "tempo_processamento": 39.83003640174866,
+        "nos_visitados": 24021672
+    }
+]
