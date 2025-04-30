@@ -86,8 +86,8 @@ def plotar_grafico(resultados):
 
 
 if __name__ == "__main__":
-    seeds = [42, 123, 999, 2025]
-    tamanhos = [8, 16, 32, 128]
+    seeds = [42, 123, 999, 2025, 3030, 4040, 5050, 6060, 7070, 8080]  # Ajustar o número de seeds
+    tamanhos = [8, 16, 32, 48, 64, 72, 80, 90, 100, 128]
     resultados = []
 
     for n, seed in zip(tamanhos, seeds):

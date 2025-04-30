@@ -14,7 +14,7 @@
         "percentual_bloqueios": 0.07314181593105666,
         "num_bloqueios": 18,
         "solucao_encontrada": true,
-        "tempo_processamento": 0.0011284351348876953,
+        "tempo_processamento": 0.0,
         "nos_visitados": 804
     },
     {
@@ -23,16 +23,70 @@
         "percentual_bloqueios": 0.11688081309742179,
         "num_bloqueios": 119,
         "solucao_encontrada": true,
-        "tempo_processamento": 0.04841184616088867,
+        "tempo_processamento": 0.03947806358337402,
         "nos_visitados": 25595
     },
     {
-        "tamanho_tabuleiro": 128,
+        "tamanho_tabuleiro": 48,
         "seed": 2025,
         "percentual_bloqueios": 0.10346513021709124,
-        "num_bloqueios": 1695,
+        "num_bloqueios": 238,
         "solucao_encontrada": true,
-        "tempo_processamento": 39.83003640174866,
-        "nos_visitados": 24021672
+        "tempo_processamento": 97.70833683013916,
+        "nos_visitados": 148837837
+    },
+    {
+        "tamanho_tabuleiro": 64,
+        "seed": 3030,
+        "percentual_bloqueios": 0.08365295677316595,
+        "num_bloqueios": 342,
+        "solucao_encontrada": true,
+        "tempo_processamento": 0.04978156089782715,
+        "nos_visitados": 53616
+    },
+    {
+        "tamanho_tabuleiro": 72,
+        "seed": 4040,
+        "percentual_bloqueios": 0.07396585538977117,
+        "num_bloqueios": 383,
+        "solucao_encontrada": true,
+        "tempo_processamento": 0.20200395584106445,
+        "nos_visitados": 195651
+    },
+    {
+        "tamanho_tabuleiro": 80,
+        "seed": 5050,
+        "percentual_bloqueios": 0.11440974328020531,
+        "num_bloqueios": 732,
+        "solucao_encontrada": true,
+        "tempo_processamento": 0.08925557136535645,
+        "nos_visitados": 91528
+    },
+    {
+        "tamanho_tabuleiro": 90,
+        "seed": 6060,
+        "percentual_bloqueios": 0.11601648618750553,
+        "num_bloqueios": 939,
+        "solucao_encontrada": true,
+        "tempo_processamento": 78.48914456367493,
+        "nos_visitados": 102971444
+    },
+    {
+        "tamanho_tabuleiro": 100,
+        "seed": 7070,
+        "percentual_bloqueios": 0.10786697642045168,
+        "num_bloqueios": 1078,
+        "solucao_encontrada": true,
+        "tempo_processamento": 15.77009654045105,
+        "nos_visitados": 19851504
+    },
+    {
+        "tamanho_tabuleiro": 128,
+        "seed": 8080,
+        "percentual_bloqueios": 0.07664393944331123,
+        "num_bloqueios": 1255,
+        "solucao_encontrada": true,
+        "tempo_processamento": 0.008823156356811523,
+        "nos_visitados": 1462
     }
 ]
